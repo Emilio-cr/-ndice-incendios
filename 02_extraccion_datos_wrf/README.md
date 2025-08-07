@@ -38,7 +38,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 ---
 
-## ⏳ Tareas pendientes
+## Tareas pendientes
 
 | Año  | Día 1 🔲 | Día 2 🔲 | Día 3 🔲 |
 |------|---------|---------|---------|
@@ -54,7 +54,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 ---
 
-## 🧪 Verificación y análisis
+## Verificación y análisis
 
 - [x] Script complementario de análisis rápido de salidas (`analisis_salida_WRF.ipynb`)
   - Verifica estructura del DataFrame.
