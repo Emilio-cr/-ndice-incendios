@@ -8,7 +8,7 @@ Extraer, desde archivos WRFOUT, las variables **Temperatura a 2 m (T2)** y **Hum
 ## Procedimiento
 
 ### 1. Script principal
-- **Archivo:** `scripts/extract_dataWRF_allxyt_year-v2.py`
+- **Archivo:** `scripts/extract_dataWRF_allxyt_year-v2.py`   (extract_dataWRF-D04_supxy_alltime_year.py en el repositorio local)
 - **Ejecución:** Exclusivamente en el servidor institucional `kosmos`, debido al tamaño de los archivos WRFOUT.
 - **Entradas:**
   - Carpeta con archivos `wrfout` del dominio correspondiente (`WRF/D03` o `WRF/D04`).
