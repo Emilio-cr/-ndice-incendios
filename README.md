@@ -1,12 +1,12 @@
-# 🔥 Proyecto de Análisis de Incendios e Índices de Riesgo
+# Proyecto de Análisis de Incendios
 
 Este repositorio reúne scripts, documentación y resultados parciales del proyecto orientado al análisis de incendios forestales y al desarrollo de índices de riesgo, a partir de la integración de distintas fuentes de datos meteorológicos y registros históricos.
 
-## 🎯 Objetivo general
+## Objetivo general
 
 Diseñar una metodología para caracterizar condiciones meteorológicas asociadas a incendios en la Región de Valparaíso, integrando información de modelos numéricos (WRF, ERA5, MODIS), estaciones meteorológicas y datos históricos de incendios forestales.
 
-## 🧭 Estructura del proyecto
+## Estructura del proyecto
 
 El trabajo se organiza en **7 fases principales**, cada una contenida en una carpeta específica del repositorio:
 
