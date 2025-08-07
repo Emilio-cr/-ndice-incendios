@@ -1,10 +1,10 @@
-# 🗺️ Roadmap - Fase 01: Grillas de extracción WRF
+# Roadmap - Fase 01: Grillas de extracción WRF
 
 Esta fase corresponde al diseño, extracción y validación de las grillas geográficas asociadas a los dominios D03 y D04 del modelo WRF, usadas posteriormente para extraer variables meteorológicas relevantes.
 
 ---
 
-## ✅ Objetivos
+## Objetivos
 
 - Extraer coordenadas de grilla (lat/lon) desde archivos `wrfout` de referencia.
 - Construir DataFrames y GeoDataFrames con estructura estandarizada.
