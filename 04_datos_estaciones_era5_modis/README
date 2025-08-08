@@ -11,12 +11,18 @@ El objetivo es generar una base de datos meteorológica paralela al modelo WRF, 
 
 ## Contenido (para ERA)
 
+
 - `scripts/`
   - `extract-era5.py`: script principal para extraer variables meteorológicas diarias usando la API de CDS (ERA5-Land).
   - ERA5.ipynb`: notebook para definir el bounding box de extracción ajustado a la grilla WRF y visualizar los puntos de ERA5.
 
 - `outputs/`
-  - Archivos de extracción en formato NetCDF (.nc) por año y mes. No se incluyen en el repositorio debido a su tamaño.
+  - Archivos de extracción en formato NetCDF (`.nc`) por año y mes. **No se incluyen en el repositorio debido a su tamaño.**
+  - `bbox_era_wrfD03.html`: Mapa interactivo que muestra el bounding box de ERA5-Land y su superposición con la grilla del dominio WRF D03.
+  - `bbox_era.txt`: Archivo auxiliar con los límites geográficos del bounding box calculado, ajustado a la malla de 0.1° (N, W, S, E).
+
+Bounding Box ajustado a ERA5-Land (resolución 0.1°):
+[Norte, Oeste, Sur, Este] = [-32.4, -71.8, -33.6, -71.1]
 
 ## Variables extraídas (ERA5-Land)
 
