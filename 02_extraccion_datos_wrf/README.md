@@ -27,7 +27,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 ---
 
-##  Tareas completadas
+##  Tareas completadas para dominio D04
 
 | Año  | Día 1 ✅ | Día 2 ✅ | Día 3 ✅ |
 |------|---------|---------|---------|
@@ -35,6 +35,12 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 | 2016 |    ✅   |    ✅   |   ✅    |
 | 2017 |    ✅   |    ✅   |   ✅    |
 | 2018 |    ✅   |    ✅   |   ✅    |
+| 2019 |    ✅   |    ✅   |   ✅    |
+| 2020 |    ✅   |    ✅   |   ✅    |
+| 2021 |    ✅   |    ✅   |   ✅    |
+| 2022 |    ✅   |    ✅   |   ✅    |
+
+
 
 ---
 
@@ -43,10 +49,6 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 | Año  | Día 1 🔲 | Día 2 🔲 | Día 3 🔲 |
 |------|---------|---------|---------|
 | 2014 |    🔲   |    🔲   |   🔲    |
-| 2019 |    🔲   |    🔲   |   🔲    |
-| 2020 |    🔲   |    🔲   |   🔲    |
-| 2021 |    🔲   |    🔲   |   🔲    |
-| 2022 |    🔲   |    🔲   |   🔲    |
 | 2023 |    🔲   |    🔲   |   🔲    |
 | 2024 |    🔲   |    🔲   |   🔲    |
 | 2025 |    🔲   |    🔲   |   🔲    |
