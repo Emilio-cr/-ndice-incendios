@@ -1,0 +1,2 @@
+Bounding Box ajustado a ERA5-Land (resolución 0.1°):
+[Norte, Oeste, Sur, Este] = [-32.4, -71.8, -33.6, -71.1]
