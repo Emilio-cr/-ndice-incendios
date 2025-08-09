@@ -1,4 +1,4 @@
-# Procesamiento de eventos de incendios CONAF – GitHub Repo
+# Procesamiento de eventos de incendios CONAF 
 
 Este repositorio contiene herramientas para procesar y filtrar datos oficiales de incendios forestales proporcionados por CONAF (procesados por el CR2), con el objetivo de preparar insumos para análisis en dominios del modelo WRF.  
 
@@ -51,5 +51,4 @@ Como parte de la siguiente etapa (segundo notebook de esta sección) se desarrol
 
 ---
 
-## 📁 Estructura del repositorio
 
