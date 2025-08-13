@@ -20,7 +20,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 - `scripts/extract_dataWRF_allxyt_year-v2.py`  
   Script principal de extracción. Ejecutar en servidor institucional con acceso a archivos `wrfout`.
 
-- `outputs/WRF_DataT2RH2-allxy-allTime_dia{1,2,3}_AÑO.pkl`  
+- `outputs/WRF_DataT2RH2-SUPxy-allTime_dia{1,2,3}_AÑO.pkl`  
   Archivos de salida para cada día de pronóstico y año.
 
 
@@ -31,6 +31,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 | Año  | Día 1 ✅ | Día 2 ✅ | Día 3 ✅ |
 |------|---------|---------|---------|
+| 2014 |    ✅   |    ✅   |   ✅    |
 | 2015 |    ✅   |    ✅   |   ✅    |
 | 2016 |    ✅   |    ✅   |   ✅    |
 | 2017 |    ✅   |    ✅   |   ✅    |
@@ -39,6 +40,7 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 | 2020 |    ✅   |    ✅   |   ✅    |
 | 2021 |    ✅   |    ✅   |   ✅    |
 | 2022 |    ✅   |    ✅   |   ✅    |
+| 2023 |    ✅   |    ✅   |   ✅    |
 
 
 
@@ -48,8 +50,6 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 | Año  | Día 1 🔲 | Día 2 🔲 | Día 3 🔲 |
 |------|---------|---------|---------|
-| 2014 |    🔲   |    🔲   |   🔲    |
-| 2023 |    🔲   |    🔲   |   🔲    |
 | 2024 |    🔲   |    🔲   |   🔲    |
 | 2025 |    🔲   |    🔲   |   🔲    |
 
@@ -78,6 +78,6 @@ Esta etapa tiene como objetivo extraer series temporales de variables meteoroló
 
 ##  Próximos pasos
 
-- [ ] Completar extracción para todos los años.
-- [ ] Automatizar validación por año con scripts ligeros.
+- [ ] Completar extracción para todos los años EN DOMINIO D03.
+    
 - [ ] Incluir resumen de cobertura temporal y espacial.
