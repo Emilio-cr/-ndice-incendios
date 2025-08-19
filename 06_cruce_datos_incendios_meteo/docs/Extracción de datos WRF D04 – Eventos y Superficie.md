@@ -66,6 +66,4 @@ con información de:
 
 ## 📌 Comentarios
 
-- El flujo está pensado para **mantener trazabilidad**: de eventos originales → asignación de coordenada → extracción de meteorología.
-- Los nombres de salida se mantienen consistentes para facilitar posteriores análisis y visualización.
-- A partir de estos PKL combinados se podrán generar análisis estadísticos y mapas en **Folium**.
+subir los pkl de salida a driver
